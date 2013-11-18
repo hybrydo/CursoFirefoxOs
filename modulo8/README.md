@@ -1,0 +1,1 @@
+ Modulo 8. Diseño de aplicaciones Web en general y para FirefoxOS utilizando librerías jQuery y Zepto, así como eventos táctiles y localStorage. 

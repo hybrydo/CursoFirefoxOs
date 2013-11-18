@@ -1,0 +1,1 @@
+ 	Modulo 6. Acceso al navegador y al arbol DOM (Document Object Model) de la página Web desde Javascript y depuración de JavaScript con Firefox. 	

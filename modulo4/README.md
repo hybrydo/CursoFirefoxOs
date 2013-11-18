@@ -1,0 +1,1 @@
+Modulo 4. Depuración de la estructura HTML y de la visualización CSS utilizando las herramientas de Firefox. 
